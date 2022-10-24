@@ -9,4 +9,4 @@
 - ⚔️ Technogies and tools : `.net`, `git`, `postgresql`, `sql server`, `sqlite`, `ef core`, `asp.net`
 - 🌱 Learning all about **Open Source**
 - 📫 Connect with me: [telegram](https://t.me/AbduIIayev_Abbos), 
-- ⚡️ I'm a fan of Cyber sport and others
+- ⚡️ I'm a fan of Cyber sport and music
